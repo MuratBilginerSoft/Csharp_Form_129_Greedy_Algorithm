@@ -1,0 +1,16 @@
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Kod M Greedy Algorithm\Kod M Greedy Algorithm\bin\Debug\Kod M Greedy Algorithm.exe
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Kod M Greedy Algorithm\Kod M Greedy Algorithm\bin\Debug\Kod M Greedy Algorithm.pdb
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Kod M Greedy Algorithm\Kod M Greedy Algorithm\obj\x86\Debug\Kod_M_Greedy_Algorithm.Form1.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Kod M Greedy Algorithm\Kod M Greedy Algorithm\obj\x86\Debug\Kod_M_Greedy_Algorithm.Properties.Resources.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Kod M Greedy Algorithm\Kod M Greedy Algorithm\obj\x86\Debug\Kod M Greedy Algorithm.csproj.GenerateResource.Cache
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Kod M Greedy Algorithm\Kod M Greedy Algorithm\obj\x86\Debug\Kod M Greedy Algorithm.exe
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Kod M Greedy Algorithm\Kod M Greedy Algorithm\obj\x86\Debug\Kod M Greedy Algorithm.pdb
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Kod M Greedy Algorithm\Kod M Greedy Algorithm\obj\x86\Debug\Kod M Greedy Algorithm.csprojResolveAssemblyReference.cache
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\20 Greedy Algorithm v1.0\Kod M Greedy Algorithm\obj\x86\Debug\Kod M Greedy Algorithm.exe
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\20 Greedy Algorithm v1.0\Kod M Greedy Algorithm\obj\x86\Debug\Kod M Greedy Algorithm.pdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\20 Greedy Algorithm v1.0\Kod M Greedy Algorithm\bin\Debug\Kod M Greedy Algorithm.exe
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\20 Greedy Algorithm v1.0\Kod M Greedy Algorithm\bin\Debug\Kod M Greedy Algorithm.pdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\20 Greedy Algorithm v1.0\Kod M Greedy Algorithm\obj\x86\Debug\Kod M Greedy Algorithm.csprojResolveAssemblyReference.cache
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\20 Greedy Algorithm v1.0\Kod M Greedy Algorithm\obj\x86\Debug\Kod_M_Greedy_Algorithm.Form1.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\20 Greedy Algorithm v1.0\Kod M Greedy Algorithm\obj\x86\Debug\Kod_M_Greedy_Algorithm.Properties.Resources.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\20 Greedy Algorithm v1.0\Kod M Greedy Algorithm\obj\x86\Debug\Kod M Greedy Algorithm.csproj.GenerateResource.Cache
